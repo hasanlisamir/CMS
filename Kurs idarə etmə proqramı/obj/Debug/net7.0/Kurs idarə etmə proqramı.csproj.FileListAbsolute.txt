@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\tasklar\Kurs idarə etmə proqramı\Kurs idarə etmə proqramı\bin\Debug\net7.0\Kurs idarə etmə proqramı.exe
+C:\Users\hp\Desktop\tasklar\Kurs idarə etmə proqramı\Kurs idarə etmə proqramı\bin\Debug\net7.0\Kurs idarə etmə proqramı.deps.json
+C:\Users\hp\Desktop\tasklar\Kurs idarə etmə proqramı\Kurs idarə etmə proqramı\bin\Debug\net7.0\Kurs idarə etmə proqramı.runtimeconfig.json
+C:\Users\hp\Desktop\tasklar\Kurs idarə etmə proqramı\Kurs idarə etmə proqramı\bin\Debug\net7.0\Kurs idarə etmə proqramı.dll
+C:\Users\hp\Desktop\tasklar\Kurs idarə etmə proqramı\Kurs idarə etmə proqramı\bin\Debug\net7.0\Kurs idarə etmə proqramı.pdb
+C:\Users\hp\Desktop\tasklar\Kurs idarə etmə proqramı\Kurs idarə etmə proqramı\obj\Debug\net7.0\Kurs idarə etmə proqramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\tasklar\Kurs idarə etmə proqramı\Kurs idarə etmə proqramı\obj\Debug\net7.0\Kurs idarə etmə proqramı.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\tasklar\Kurs idarə etmə proqramı\Kurs idarə etmə proqramı\obj\Debug\net7.0\Kurs idarə etmə proqramı.AssemblyInfo.cs
+C:\Users\hp\Desktop\tasklar\Kurs idarə etmə proqramı\Kurs idarə etmə proqramı\obj\Debug\net7.0\Kurs idarə etmə proqramı.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\tasklar\Kurs idarə etmə proqramı\Kurs idarə etmə proqramı\obj\Debug\net7.0\Kurs idarə etmə proqramı.dll
+C:\Users\hp\Desktop\tasklar\Kurs idarə etmə proqramı\Kurs idarə etmə proqramı\obj\Debug\net7.0\refint\Kurs idarə etmə proqramı.dll
+C:\Users\hp\Desktop\tasklar\Kurs idarə etmə proqramı\Kurs idarə etmə proqramı\obj\Debug\net7.0\Kurs idarə etmə proqramı.pdb
+C:\Users\hp\Desktop\tasklar\Kurs idarə etmə proqramı\Kurs idarə etmə proqramı\obj\Debug\net7.0\Kurs idarə etmə proqramı.genruntimeconfig.cache
+C:\Users\hp\Desktop\tasklar\Kurs idarə etmə proqramı\Kurs idarə etmə proqramı\obj\Debug\net7.0\ref\Kurs idarə etmə proqramı.dll
